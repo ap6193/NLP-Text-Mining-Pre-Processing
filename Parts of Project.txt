@@ -1,0 +1,20 @@
+What we are doing in each section and the libraries used in the project -
+
+1. NLP operations, preprocessing, sentence translation, Sentiment analysis and spelling correction-
+
+Tasks done - Tokenize, Stemming, Lemmatize, POS Tagging, Translate, analyze sentiment, correct the sentences.
+
+Libraries - nltk (from nltk, we import sent_tokenize,word_tokenize,PorterStemmer)
+	    ,Textblob
+
+
+2. Classification or categorizing sentences -
+
+Naive bayes classifier (multinomialNB)
+Tfidf and count vectorizer
+
+Libraries - numpy, matplotlib, seaborn, sklearn, 
+
+Task done - We take 20 news groups and put each sentence in one of these categories.
+
+
